@@ -1,0 +1,18 @@
+.coffee-beans{
+    max-width: 400px;
+    max-height: 400px;
+}
+.bean-spoon{
+    max-width: 300px;
+    max-height: 300px;
+}
+.h1{
+  font-family: "Hind", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.p{
+     font-family: "Hind", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
